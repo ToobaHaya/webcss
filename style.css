@@ -1,0 +1,16 @@
+
+thead{
+    
+    color: black;
+    font-style: italic;
+    font-size: 40px;
+}
+tbody{
+    font-size: 20px;
+}
+tfoot{
+   
+    color: black;
+    font-size: 22px;
+}
+
